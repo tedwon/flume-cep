@@ -1,0 +1,1 @@
+bin/flume-ng agent -n collector -c conf -f conf/my-conf.properties -Dflume.root.logger=INFO,console

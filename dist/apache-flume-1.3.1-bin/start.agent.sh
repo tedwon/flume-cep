@@ -1,0 +1,1 @@
+bin/flume-ng agent -n remote_agent -c conf -f conf/my-conf.properties -Dflume.root.logger=INFO,console
